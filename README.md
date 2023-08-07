@@ -1,5 +1,11 @@
-# Hello World!
+### Hey 👋, I'm Didi Prasetyo
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=prasetyodidi)](https://github.com/LordDashMe/github-contribution-stats/)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prasetyodidi)](https://git.io/streak-stats)
+[![Github](https://img.shields.io/github/followers/prasetyodidi?label=Follow&style=social)](https://github.com/prasetyodidi)
 
+- 🔭 I'm currently working as Software Engineer
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasetyodidi&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prasetyodidi&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prasetyodidi&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prasetyodidi&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prasetyodidi&theme=github)
